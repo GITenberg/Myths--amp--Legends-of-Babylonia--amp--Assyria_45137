@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5707
     wikipedia: http://en.wikipedia.org/wiki/Lewis_Spence
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45137#Myths--amp--Legends-of-Babylonia--amp--Assyria
 gutenberg_issued: '2014-03-15'
 gutenberg_type: Text
 identifiers:
