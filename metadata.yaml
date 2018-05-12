@@ -1,0 +1,40 @@
+_repo: Myths--amp--Legends-of-Babylonia--amp--Assyria_45137
+_version: 0.1.0
+alternative_title: Myths and Legends of Babylonia and Assyria
+contributor:
+  illustrator:
+    agent_name: Paul, Evelyn
+    birthdate: 1883
+    deathdate: 1963
+    gutenberg_agent_id: '6441'
+    url: http://www.gutenberg.org/2009/agents/6441
+    wikipedia: http://en.wikipedia.org/wiki/Evelyn_Paul
+covers:
+- cover_type: archival
+  image_path: 45137-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Spence, Lewis
+    alias: Spence, James Lewis Thomas Chalmers
+    birthdate: 1874
+    deathdate: 1955
+    gutenberg_agent_id: '5707'
+    url: http://www.gutenberg.org/2009/agents/5707
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Spence
+description: ''
+gutenberg_issued: '2014-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Assyro-Babylonian cults'
+- !lcsh 'Mythology, Assyro-Babylonian'
+- !lcc 'BL'
+- !lcsh 'Legends'
+- !lcsh 'Assyro-Babylonian religion'
+title: Myths & Legends of Babylonia & Assyria
+url: http://www.gutenberg.org/ebooks/45137
